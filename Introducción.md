@@ -17,4 +17,11 @@ Mis favoritas de misterio:
   - The big bang theory
 # ¿De qué pelis voy a hablar?
 Voy a hablar de las dos pelis de Mamma Mia! <br/>
-<img src = 
+<br/><br/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="Bonesbooth.jpg" alt="Izquierda" style="width: 100px;">
+  <img src="mentalist.jpg" alt="Centro" style="width: 100px;">
+  <img src="castle.jpg" alt="Derecha" style="width: 100px;">
+</div>
+
+
