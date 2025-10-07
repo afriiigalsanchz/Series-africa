@@ -27,5 +27,6 @@ Mis favoritas de misterio:
   <img src="photos/HYMYM.jpg" alt="Centro" style="width: 300px;">
   <img src="photos/big bang theory.jpg" alt="Derecha" style="width: 300px;">
 </div>
-<br/>
+
+
 # Enlace al otro archivo
