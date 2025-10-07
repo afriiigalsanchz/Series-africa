@@ -19,9 +19,9 @@ Mis favoritas de misterio:
 Voy a hablar de las dos pelis de Mamma Mia! <br/>
 <br/><br/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="Bonesbooth.jpg" alt="Izquierda" style="width: 100px;">
-  <img src="mentalist.jpg" alt="Centro" style="width: 100px;">
-  <img src="castle.jpg" alt="Derecha" style="width: 100px;">
+  <img src="photos/bonesfriends.jpg" alt="Izquierda" style="width: 300px;">
+  <img src="photos/jisbon.jpg" alt="Centro" style="width: 300px;">
+  <img src="photos/castle.jpg" alt="Derecha" style="width: 300px;">
 </div>
 
 
