@@ -1,0 +1,20 @@
+# ¿De que voy a hablar?
+Hablaré sobre mis series y películas favoritas
+# ¿Por qué he elegido este tema?
+Porque me declaro una gran fan de las series antiguas, sobretodo las sitcoms y las series de misterio
+# ¿De qué tipo de series voy a hablar?
+Hablaré sobre mis series Favoritas de misterio y de policias
+# ¿De qué series voy a hablar?
+Hablaré sobre:<br/>
+Mis favoritas de misterio:
+  - Bones
+  - Castle
+  - The mentalist
+  - Manifest <br/><br/>
+  Mis sitcoms favoritas:
+  - How I Met Your Mother
+  - Friends
+  - The big bang theory
+# ¿De qué pelis voy a hablar?
+Voy a hablar de las dos pelis de Mamma Mia! <br/>
+<img src = 
