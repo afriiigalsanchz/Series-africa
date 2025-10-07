@@ -9,7 +9,7 @@ Te dejo un enlace al Trailer de la primera temporada de El mentalista
 
 <img src = photos/descarga.jpg>
 
-<a href = https://www.youtube.com/embed/tCpWApgVqbc?si=j60xiYQXvE5qloBg/>Trailer El Mentalista</a>
+<a href = https://www.youtube.com/embed/tCpWApgVqbc?si=j60xiYQXvE5qloBg> Trailer El Mentalista </a>
 # Bones 
 El lore del Bones es parecido al del mentalista pero un tanto diferente, ya que esta serie no tiene a un vidente y además está basada en un libro, que a la vez está basado en hechos reales, cuenta la vida de la doctora Kathy Reichs pero poniendo como protagonista a la doctora temperance brennan.
 Igualmente es una serie de misterio y de crímenes pero está más basado en la investigación forense, los protagonistas trabajan en un lavoratorio en washington DC investigando crímenes para el FBI, en específico para el agente especial Seely Booth.
