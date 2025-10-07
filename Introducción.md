@@ -15,8 +15,6 @@ Mis favoritas de misterio:
   - How I Met Your Mother
   - Friends
   - The big bang theory
-# ¿De qué pelis voy a hablar?
-Voy a hablar de las dos pelis de Mamma Mia! <br/>
 <br/><br/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="photos/bones2.jpg" alt="Izquierda" style="width: 300px;">
@@ -25,9 +23,9 @@ Voy a hablar de las dos pelis de Mamma Mia! <br/>
 </div>
 <br/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="photos/bones2.jpg" alt="Izquierda" style="width: 300px;">
-  <img src="photos/jisbon.jpg" alt="Centro" style="width: 300px;">
-  <img src="photos/castle.jpg" alt="Derecha" style="width: 300px;">
+  <img src="photos/friends.jpg" alt="Izquierda" style="width: 300px;">
+  <img src="photos/HYMYM.jpg" alt="Centro" style="width: 300px;">
+  <img src="photos/big bang theory.jpg" alt="Derecha" style="width: 300px;">
 </div>
-
-
+<br/>
+# Enlace al otro archivo
