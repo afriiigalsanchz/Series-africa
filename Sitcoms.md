@@ -1,0 +1,15 @@
+# How I Met Your Mother
+
+How I met Your Mother es una de mis series favoritas. Tiene ese toque especial que mezcla humor, amistad y momentos que de verdad te llegan. No es solo una comedia, también tiene una historia detrás que te engancha desde el primer capítulo.
+Lo que más me gusta es cómo está contada, con saltos en el tiempo, anécdotas y una narración que hace que sientas que conoces a los personajes de toda la vida. Cada uno tiene su forma de ser, sus locuras y su propio encanto, y juntos crean algo único.
+
+# Friends
+
+Friends es simplemente un clásico. Es de esas series que puedes ver una y otra vez y nunca aburrirte. Los seis protagonistas tienen una química increíble y las situaciones por las que pasan siempre te sacan una sonrisa, aunque ya las hayas visto mil veces.
+Tiene un humor muy natural y un tipo de energía que pocas series logran. Y lo mejor es que, además de las risas, también tiene momentos emotivos que te recuerdan lo importante que es tener amigos que se vuelven tu familia.
+
+
+# The Big Bang Theory
+
+The Big Bang Theory me encanta por lo diferente que es. Tiene un humor muy particular, lleno de referencias a la ciencia, los cómics y la cultura geek. Los personajes son geniales, cada uno con su personalidad tan marcada y con una evolución muy buena a lo largo de los años.
+Es una serie que combina perfectamente lo divertido con lo tierno, y que demuestra que ser diferente también puede ser lo que te hace especial. Además, tiene momentos que se vuelven inolvidables, sobre todo cuando ves lo mucho que cambian y crecen juntos.
