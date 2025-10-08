@@ -9,8 +9,7 @@ Hablaré sobre:<br/>
 Mis favoritas de misterio:
   - Bones
   - Castle
-  - The mentalist
-  - Manifest <br/><br/>
+  - The mentalist<br/><br/>
   Mis sitcoms favoritas:
   - How I Met Your Mother
   - Friends
