@@ -25,7 +25,7 @@ Mis favoritas de misterio:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="photos/friends.jpg" alt="Izquierda" style="width: 300px;">
   <img src="photos/HYMYM.jpg" alt="Centro" style="width: 300px;">
-  <img src="photos/big bang theory.jpg" alt="Derecha" style="width: 300px;">
+  <img src="photos/BBT.jpg" alt="Derecha" style="width: 300px;">
 </div>
 
 
