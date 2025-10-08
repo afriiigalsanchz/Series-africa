@@ -1,6 +1,6 @@
 # How I Met Your Mother
 
-*How I Met Your Mother* es una de **mis sitcoms favoritas**. Tiene ese toque especial que mezcla humor, amistad y momentos que de verdad te llegan. No es solo una comedia, también tiene una historia detrás que te engancha desde el primer capítulo.
+**How I Met Your Mother** es una de **mis sitcoms favoritas**. Tiene ese toque especial que mezcla humor, amistad y momentos que de verdad te llegan. No es solo una comedia, también tiene una historia detrás que te engancha desde el primer capítulo.
 
 Lo que **más me gusta** es cómo está contada, con saltos en el tiempo, anécdotas y una narración que hace que sientas que conoces a los personajes de toda la vida. Cada uno tiene su forma de ser, sus locuras y su propio encanto, y juntos crean algo único.
 
@@ -19,7 +19,7 @@ Un último video jeje:
 
 # Friends
 
-*Friends* es simplemente un **clásico**. Es de esas series que puedes ver una y otra vez y nunca aburrirte. Los seis protagonistas tienen una química increíble y las situaciones por las que pasan siempre te sacan una sonrisa, aunque ya las hayas visto mil veces.
+**Friends** es simplemente un **clásico**. Es de esas series que puedes ver una y otra vez y nunca aburrirte. Los seis protagonistas tienen una química increíble y las situaciones por las que pasan siempre te sacan una sonrisa, aunque ya las hayas visto mil veces.
 
 Tiene un humor muy natural y un tipo de energía que pocas series logran. Y lo mejor es que, además de las risas, también tiene momentos emotivos que te recuerdan lo importante que es tener amigos que se vuelven tu familia.
 
@@ -34,7 +34,7 @@ Te dejo un clipazo de esta sitcom, que de verdad, es el mejor clip que puede hab
 
 # The Big Bang Theory
 
-*The Big Bang Theory* me encanta por lo diferente que es. Tiene un **humor muy particular**, lleno de referencias a la ciencia, los cómics y la cultura geek. Los personajes son geniales, cada uno con su personalidad tan marcada y con una evolución muy buena a lo largo de los años.
+**The Big Bang Theory** me encanta por lo diferente que es. Tiene un **humor muy particular**, lleno de referencias a la ciencia, los cómics y la cultura geek. Los personajes son geniales, cada uno con su personalidad tan marcada y con una evolución muy buena a lo largo de los años.
 
 Es una serie que combina perfectamente lo **divertido** con lo **tierno**, y que demuestra que ser diferente también puede ser lo que te hace especial. Además, tiene momentos que se vuelven inolvidables, sobre todo cuando ves lo mucho que cambian y crecen juntos.
 
@@ -54,8 +54,8 @@ También es la última sitcom que he visto y la que más me ha gustado. Siempre 
 
 Si me preguntaras **¿Por qué?** yo te respondería que no sabría explicarte, porque la vida de estos cinco amigos y sus aventuras cada vez más locas me parece muy interesante, y sería una vida que, la verdad, si viviera en NY me gustaría tener con mis mejores amigas.
 
-Por eso, si estás pensando en ver alguna, de verdad, tienes que ver—no tienes—**DEBES** ver *HIMYM*.  
-Y esa es mi opinión final 🙂
+Por eso, si estás pensando en ver alguna, de verdad, tienes que ver, no tienes, **DEBES** ver **HIMYM**.  
+Y esa es mi opinión final :)
 
 Te dejo un enlace a una de las mejores canciones de la serie:  
 [Mejor canción de la serie](https://www.youtube.com/embed/z_AgCzt9zcM?si=unWYkLjY4QgwGuhc)
@@ -64,6 +64,6 @@ Te dejo un enlace a una de las mejores canciones de la serie:
 
 ---
 
-Me encantaría pasarte los enlaces de donde vi estas series, pero *HIMYM* la descargué porque no la encontré en ninguna plataforma digital, y *Friends* y *The Big Bang Theory* las vi en la televisión 😉
+Me encantaría pasarte los enlaces de donde vi estas series, pero **HIMYM** la descargué porque no la encontré en ninguna plataforma digital, y *Friends* y *The Big Bang Theory* las vi en la televisión 😉
 
                   
