@@ -8,10 +8,10 @@ Lo mejor es cómo mezcla el <b>humor con momentos más serios</b>, y cómo el pr
 Te dejo un enlace al Trailer de la primera temporada de El mentalista
 
 <img src = photos/descarga.jpg>
+[Trailer de El Mentalista]("https://www.youtube.com/embed/tCpWApgVqbc?si=j60xiYQXvE5qloBg")
 
-<a href = "https://www.youtube.com/embed/tCpWApgVqbc?si=j60xiYQXvE5qloBg">Trailer de El Mentalista</a><br/>
 Y un Enlace para que vayas directo a verla, te la recomiendo muchísimo ;)
-<a href = "https://www.primevideo.com/detail/0JCAGVKV8JB0IM3RCVPIWENAMX/ref=atv_dp_share_cu_r">Ve directo a verla :)</a>
+[Ve directo a verla] ("https://www.primevideo.com/detail/0JCAGVKV8JB0IM3RCVPIWENAMX/ref=atv_dp_share_cu_r")
 
 # Bones 
 El lore del Bones es <b>parecido al del mentalista</b> pero un tanto diferente, ya que esta serie <b>no tiene a un vidente</b> y además está <b>basada en un libro</b>, que a la vez está basado en <b>hechos reales</b>, cuenta la vida de la <b>Doctora Kathy Reichs</b> pero poniendo como protagonista a la <b>Doctora temperance brennan.</b>
@@ -24,9 +24,9 @@ En general, es una serie que mezcla muy bien el misterio, la ciencia y el humor,
 
 <img src = photos/bonesfriends.jpg><br/>
 Te dejo el enlace al trailer de la primera temporada de esta seriaza:<br/>
-<a href = "https://www.youtube.com/embed/5KMszuAc8WQ?si=kyDmxsA0CrCxYncB">Trailer Bones</a><br/>
+[Trailer Bones] ("https://www.youtube.com/embed/5KMszuAc8WQ?si=kyDmxsA0CrCxYncB")<br/>
 Y un enlace para que vayas directo a verla:<br/>
-<a href = "https://www.primevideo.com/detail/0LCOF5TF2X23TJGP5C53AHIANW/ref=atv_dp_share_cu_r">A verla</a><br/>
+[A verla] ("https://www.primevideo.com/detail/0LCOF5TF2X23TJGP5C53AHIANW/ref=atv_dp_share_cu_r")<br/>
 Ve directo a verla, eso si, antes que el mentalista y la otra serie que te voy a mencionar, así tendrás una mejor experiencia
 
 # Castle
@@ -41,8 +41,11 @@ Y bueno, Castle con su chaleco de “WRITER” es simplemente icónico.
  
 <img src = photos/castle.jpg><br/>
 Te dejo un enlace a un trailer de esta serie (están varios trailers de la misma serie en el mismo vídeo)<br/>
-<a href = "https://www.youtube.com/embed/1CGTIrP1DqI?si=as6pL7-VzmYRdknX">Trailer</a><br/>
-Y te dejaría un enlace para verla donde yo la ví, pero no tengo disney +, no podría decirte donde la vi... pero si darte el enlace a disney + :)<br/>
-<a href = "https://www.disneyplus.com/es-es/browse/entity-30fb4e12-5a72-4fe6-85ff-ddb5e88d1a65">Miratela anda :)</a>
+[Trailer]("https://www.youtube.com/embed/1CGTIrP1DqI?si=as6pL7-VzmYRdknX")
 <br/>
-Te dejo un enlace a el otro archivo  :) <a href = Sitcoms.md>Sitcoms</a>
+Y te dejaría un enlace para verla donde yo la ví, pero no tengo disney +, no podría decirte donde la vi... pero si darte el enlace a disney + :)<br/>
+[Disney +]("https://www.disneyplus.com/es-es/browse/entity-30fb4e12-5a72-4fe6-85ff-ddb5e88d1a65")
+<br/>
+Te dejo un enlace a el otro archivo  :) 
+[Sitcoms](sitcoms.md)
+
