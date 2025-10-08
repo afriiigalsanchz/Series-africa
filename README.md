@@ -30,4 +30,4 @@ Mis favoritas de misterio:
 
 
 # Enlace al otro archivo
-<a href = Series.md>Principal</a>
+<a href = Misterio.md>Principal</a>
