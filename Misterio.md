@@ -6,8 +6,8 @@ Ayuda a una unidad de crímenes a resolver casos, y cada capítulo tiene su prop
 
 Lo mejor es cómo mezcla el <b>humor con momentos más serios</b>, y cómo el protagonista siempre logra salirse con la suya usando solo su ingenio. Es una serie inteligente, entretenida y con personajes que acaban gustándote un montón.<br/>
 Te dejo un enlace al Trailer de la primera temporada de El mentalista
+!(photos/descargas.jpg)
 
-<img src = photos/descarga.jpg>
 [Trailer de El Mentalista]("https://www.youtube.com/embed/tCpWApgVqbc?si=j60xiYQXvE5qloBg")
 
 Y un Enlace para que vayas directo a verla, te la recomiendo muchísimo ;)
@@ -22,7 +22,7 @@ A lo largo de la serie se ve cómo Brennan y Booth forman un equipo increíble a
 Lo que también me gusta mucho de Bones es el equipo del laboratorio, todos tienen su propia personalidad y aportan algo distinto. Entre los casos, las bromas y las relaciones entre ellos, acaban pareciendo una pequeña familia.
 En general, es una serie que mezcla muy bien el misterio, la ciencia y el humor, con personajes que se hacen querer y evolucionan un montón con los años.
 
-<img src = photos/bonesfriends.jpg><br/>
+!(photos/bonesfriends.jpg)<br/>
 Te dejo el enlace al trailer de la primera temporada de esta seriaza:<br/>
 [Trailer Bones] ("https://www.youtube.com/embed/5KMszuAc8WQ?si=kyDmxsA0CrCxYncB")<br/>
 Y un enlace para que vayas directo a verla:<br/>
@@ -39,7 +39,7 @@ También me gusta que, aunque cada capítulo tiene su propio caso, hay una <b>hi
 
 Y bueno, Castle con su chaleco de “WRITER” es simplemente icónico.
  
-<img src = photos/castle.jpg><br/>
+!(photos/castle.jpg)<br/>
 Te dejo un enlace a un trailer de esta serie (están varios trailers de la misma serie en el mismo vídeo)<br/>
 [Trailer]("https://www.youtube.com/embed/1CGTIrP1DqI?si=as6pL7-VzmYRdknX")
 <br/>
