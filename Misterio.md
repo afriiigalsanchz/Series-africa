@@ -44,3 +44,5 @@ Te dejo un enlace a un trailer de esta serie (están varios trailers de la misma
 <a href = "https://www.youtube.com/embed/1CGTIrP1DqI?si=as6pL7-VzmYRdknX">Trailer</a><br/>
 Y te dejaría un enlace para verla donde yo la ví, pero no tengo disney +, no podría decirte donde la vi... pero si darte el enlace a disney + :)<br/>
 <a href = "https://www.disneyplus.com/es-es/browse/entity-30fb4e12-5a72-4fe6-85ff-ddb5e88d1a65">Miratela anda :)</a>
+<br/>
+Te dejo un enlace a el otro archivo  :) <a href = Sitcoms.md>Sitcoms</a>
