@@ -55,7 +55,7 @@ Y bueno, Castle con su chaleco de “WRITER” es simplemente icónico.
 
 ---
 
-Te dejo un enlace al otro archivo 🙂  
-[Sitcoms](sitcoms.md)
+Te dejo un enlace al otro archivo :)
+[Sitcoms](Sitcoms.md)
 
 
