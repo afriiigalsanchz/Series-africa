@@ -43,3 +43,6 @@ Y esa es mi opinión final :).<br/>
 Te dejo un enlace a una de las mejores canciones de la serie:<br/>
 <a href = "https://www.youtube.com/embed/z_AgCzt9zcM?si=unWYkLjY4QgwGuhc">Mejor Canción de la serie</a><br/>
                                           <img src = photos/swarley.jpg>
+                                          <br/>
+Me encantaría pasarte los enlaces de donde ví estas series, pero, HIMYM, la descargué porque no la encontré en ninguna plataforma digital y friends y The big bang theory las vi en la televisión ;)
+                  
